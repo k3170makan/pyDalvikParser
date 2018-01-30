@@ -1,0 +1,10 @@
+TODO LIST
+
+* Flesh out an org structure for the files 
+	- need a place for dalvik stuff, apk stuff, decompiling stuff, emulation stuff, dalvik patching stuff etc,
+* Add more functionality to the Android App Class
+	- goal is to make this into a flexible android apk library for python
+* More search methods for the Dalvik class
+	- find method by name, by id etc
+	- data processing functions (dump method names, class names, stats and counts of names properties etc)
+
